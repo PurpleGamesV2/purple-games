@@ -1,0 +1,44 @@
+[  
+  {  
+    "id": 1,  
+    "name": "Flappy Bird",  
+    "category": "Arcade",  
+    "imageURL": "https://example.com/images/flappy_bird.png",  
+    "gameURL": "https://example.com/games/flappy_bird"  
+  },  
+  {  
+    "id": 2,  
+    "name": "Snake",  
+    "category": "Arcade",  
+    "imageURL": "https://example.com/images/snake.png",  
+    "gameURL": "https://example.com/games/snake"  
+  },  
+  {  
+    "id": 3,  
+    "name": "Pac-Man",  
+    "category": "Arcade",  
+    "imageURL": "https://example.com/images/pac_man.png",  
+    "gameURL": "https://example.com/games/pac_man"  
+  },  
+  {  
+    "id": 4,  
+    "name": "Tetris",  
+    "category": "Puzzle",  
+    "imageURL": "https://example.com/images/tetris.png",  
+    "gameURL": "https://example.com/games/tetris"  
+  },  
+  {  
+    "id": 5,  
+    "name": "Chess",  
+    "category": "Strategy",  
+    "imageURL": "https://example.com/images/chess.png",  
+    "gameURL": "https://example.com/games/chess"  
+  },  
+  {  
+    "id": 6,  
+    "name": "Checkers",  
+    "category": "Strategy",  
+    "imageURL": "https://example.com/images/checkers.png",  
+    "gameURL": "https://example.com/games/checkers"  
+  }  
+]
